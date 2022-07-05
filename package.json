@@ -1,13 +1,13 @@
 {
   "name": "clean-architecture-nestjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "author": "Daniel Hessel <daniel@sharbe.com.br>",
   "private": true,
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "github.com/danielhessell/clean-architecture-nestjs"
+    "url": "git@github.com:danielhessell/clean-architecture-nestjs.git"
   },
   "scripts": {
     "prebuild": "rimraf dist",
