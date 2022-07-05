@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/danielhessell/clean-architecture-nestjs/compare/v1.0.1...v1.1.0) (2022-07-05)
+
+
+### Features
+
+* create a '/now' route that returns the current time ([b31ae37](https://github.com/danielhessell/clean-architecture-nestjs/commit/b31ae3790f589164165fb7a3ea496109994606ec))
+
 ## [1.0.1](https://github.com/danielhessell/clean-architecture-nestjs/compare/v1.0.0...v1.0.1) (2022-07-05)
 
 
