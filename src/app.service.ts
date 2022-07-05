@@ -9,4 +9,8 @@ export class AppService {
   getHello(): GetHelloResponse {
     return { message: 'Hello World!' };
   }
+
+  getCurrentDate(): Date {
+    return new Date();
+  }
 }

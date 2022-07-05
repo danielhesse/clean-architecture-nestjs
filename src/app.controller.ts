@@ -13,4 +13,9 @@ export class AppController {
   getHello(): GetHelloResponse {
     return this.appService.getHello();
   }
+
+  @Get('/now')
+  getCurrentDate(): Date {
+    return this.appService.getCurrentDate();
+  }
 }
